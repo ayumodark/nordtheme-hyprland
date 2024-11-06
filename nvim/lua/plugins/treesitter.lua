@@ -1,5 +1,5 @@
 return {
-  'nvim-treesitter/nvim-treesitter,
+  'nvim-treesitter/nvim-treesitter',
   config = function()
     vim.cmd[[TSUpdate]]
     require'nvim-treesitter.configs'.setup {
@@ -8,4 +8,5 @@ return {
       highlight = { enable = true },
       indent = { enable = true },
     }
+  end,
 }
