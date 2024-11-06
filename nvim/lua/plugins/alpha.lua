@@ -17,10 +17,10 @@ return {
 	}
         
          dashboard.section.buttons.val = {
-             dashboard.button( " ", ">>Lazy" , ":Lazy"),
-             dashboard.button( " ", ">>Mason" , ":Mason"),
-             dashboard.button( " ", ">>Neotree", ":Neotree reveal filesystem float"),
-             dashboard.button( " ", ">>Quit All", ":q!"),
+             dashboard.button( " ", ">>Lazy" , ":Lazy<CR>"),
+             dashboard.button( " ", ">>Mason" , ":Mason<CR>"),
+             dashboard.button( " ", ">>Neotree", ":Neotree reveal filesystem float<CR>"),
+             dashboard.button( " ", ">>Quit All", ":q!<CR>"),
          }
     end
 };
