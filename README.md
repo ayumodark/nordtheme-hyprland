@@ -11,7 +11,7 @@ My personal hyprland dotfiles
 
   `git clone https://github.com/ayumodark/nordtheme-hyprland --depth=1`
 
-- Make the setup script an executable:
+- Permit executable permission to setup script:
 
   `chmod +x nordtheme-hyprland/setup.sh`
 
