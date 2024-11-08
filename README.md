@@ -8,10 +8,13 @@ My personal hyprland dotfiles
 
 ## Usage
 - Clone the repository using git or download and extract from [releases](https://github.com/ayumodark/nordtheme-hyprland/releases):
-    `git clone https://github.com/ayumodark/nordtheme-hyprland --depth=1`
+
+  `git clone https://github.com/ayumodark/nordtheme-hyprland --depth=1`
 
 - Make the setup script an executable:
-    `chmod +x nordtheme-hyprland/setup.sh`
+
+  `chmod +x nordtheme-hyprland/setup.sh`
 
 - Execute the setup script:
-    `./nordtheme-hyprland/setup.sh`
+
+  `./nordtheme-hyprland/setup.sh`
