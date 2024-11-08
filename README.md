@@ -7,7 +7,7 @@ My personal hyprland dotfiles
 - While using this config, I will tweak everything to my linking, improving on them and making them better.
 
 ## Usage
-- Clone the repository using git or download and extract manually:
+- Clone the repository using git or download and extract from [releases](https://github.com/ayumodark/nordtheme-hyprland/releases):
     `git clone https://github.com/ayumodark/nordtheme-hyprland --depth=1`
 
 - Make the setup script an executable:
