@@ -1,3 +1,6 @@
 # nordtheme-hyprland
-My personal hyprland setup following the nordtheme color pallete.
-Most of these configs are cobbled together from dotfiles I collected from various sources, As I curate this collection I intend to evolve this into my own workflow.
+My personal hyprland dotfiles
+#### Some important points:
+- Everything is consistent with nordtheme colors.
+- Most of these configs are from dotfiles I collected from everywhere.
+- While using this config, I will tweak everything to my linking, improving on them and making them better.
