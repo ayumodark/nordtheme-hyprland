@@ -2,9 +2,9 @@
 My personal hyprland dotfiles
 
 #### Some important points:
-- Everything is consistent with nordtheme colors.
-- Most of these configs are from dotfiles I collected from everywhere.
-- While using this config, I will tweak everything to my linking, improving on them and making them better.
+- Everything is consistent with [nordtheme](https://www.nordtheme.com) color pallete.
+- Most of these configs are from dotfiles I collected from the internet.
+- While using these configs, I will tweak everything to my liking, improving on them and making them better.
 
 ## Usage
 - Clone the repository using git or download and extract from [releases](https://github.com/ayumodark/nordtheme-hyprland/releases):
