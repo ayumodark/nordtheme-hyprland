@@ -1,27 +1,29 @@
+@import url("~/.config/nordtheme/colors.css");
+
 * {
 	font-family: "CasksydiaCove Nerd Font", monospace;
 }
 
 window {
-	background-color: #3B4252;
+	background-color: @nord1;
 }
 
 #input {
 	margin: 5px;
 	border-radius: 0px;
 	border: none;
-	background-color: #3B4252;
+	background-color: nord1;
 	color: white;
 }
 
 #inner-box {
-	background-color: #383C4A;
+	background-color: @nord0;
 }
 
 #outer-box {
 	margin: 2px;
 	padding: 10px;
-	background-color: #383C4A;
+	background-color: @nord0;
 }
 
 #scroll {
@@ -34,11 +36,11 @@ window {
 }
 
 #entry:nth-child(even){
-	background-color: #404552;
+	background-color: @nord1;
 }
 
 #entry:selected {
-	background-color: #4C566A;
+	background-color: @nord3;
 }
 
 #text:selected {
